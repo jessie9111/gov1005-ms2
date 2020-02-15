@@ -1,0 +1,23 @@
+---
+title: "Milestone 2"
+author: "Jessica Edwards"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Project 1: [Spotify Top Tracks Chart](https://chelseamarlborough.shinyapps.io/spotify_top_100_2018/)
+#### by [Chelsea Marlborough](https://github.com/chelseamarlborough)
+
+This project analyzes the top music on Spotify in 2018. One con of this project is that is does not provide a clear and cohesive story that ties together the data visualizations. It could also be more visually appealing; the black design does not make it the most appealing. A pro to this visualization is that it is interactive, allowing users to compare acousticness, dancebility, energy, etc. I also like how many of the visualizations are very clear and easy to read. 
+
+
+### Project 2: [Money, Efficiency, and Education: California High Schools](https://jeffereyhuang.shinyapps.io/ca-edu-spend-effects/)
+#### by [Jefferey Huang](https://github.com/jeffereyhuang/ca-school-district-efficiency)
+
+This project measures district efficiency in California high schools. A con of this project is that it could provide more information on the home page about the relevance of this data rather than providing the visualizations first. The project could have also found more ways to tie all of the visualizations together to create a compelling story. However, I think that this project's pros certainly outweigh the cons. The visualizations are all very readable and straightforward, and the project overall is very visually appealing. I enjoyed the "Explore School Districts" tab and viewing the differences between different CA school districts, and I also liked how you could sort the "10 Most Efficient School Districts" by several different columns.
+
+
